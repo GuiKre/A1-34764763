@@ -30,7 +30,6 @@ public class LeitorAlunos {
         } catch (IOException e) {
             System.out.println("Arquivo não encontrado.");
         }
-
         return alunos;
     }
 }
